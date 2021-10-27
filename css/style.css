@@ -1,0 +1,52 @@
+#header a {
+	text-decoration: none;
+	color: #000;
+}
+#main{
+	width: 100%;
+}
+.title{
+	font-weight: bold;
+	font-size: 1.5em;
+}
+.author{
+	font-style: italic;
+}
+.date{
+	font-style: italic;
+	font-size: 0.8em;
+}
+.tags{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.tag{
+	border-radius: 0.5em;
+	border: solid 1px;
+	margin: 0.2em;
+	padding: 0 1em;
+}
+.tag a{
+	color: #000;
+}
+.more{
+	font-style: italic;
+	font-size: 0.8em;
+}
+span.s {
+    font-weight: bold;
+}
+span.c1 {
+    color: #F00;
+}
+span.c2 {
+    color: #0F0;
+}
+
+@media screen and (min-width: 459px){
+	#main {
+    	margin: 0 auto;
+    	width: 459px;
+	}
+}

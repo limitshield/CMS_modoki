@@ -1,0 +1,52 @@
+[
+	{
+		"title":"1014Hello",
+		"author":"anon",
+		"date":"2021/10/14",
+		"tags":["test","dialy","oh","ah","yes"],
+		"contents":[
+			"hello",
+			"this is @[1.html]link1@ and @[2.html]link2@ ya",
+			"%[s]strong.%",
+			"%[c1]color1.%%[c2]color2.%",
+			"test data."
+		]
+	},
+	{
+		"title":"1015",
+		"author":"anon",
+		"date":"2021/10/15",
+		"tags":["test2","dialy"],
+		"contents":[
+			"hi",
+			"test data 2.",
+			"this is @[#]link@"
+		]
+	},
+	{
+		"title":"1016",
+		"author":"anon",
+		"date":"2021/10/16",
+		"tags":["test2","dialy"],
+		"contents":[
+			"hi",
+			"test data 3.",
+			"test data 3.",
+			"test data 3.",
+			"this is @[#]link@"
+		]
+	},
+	{
+		"title":"1017testdev",
+		"author":"anon",
+		"date":"2021/10/17",
+		"tags":["test","dev"],
+		"contents":[
+			"backend",
+			"backend",
+			"backend",
+			"backend",
+			"test data 2."
+		]
+	}
+]
